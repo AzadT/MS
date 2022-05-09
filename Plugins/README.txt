@@ -1,0 +1,1 @@
+Die Plugins im .qml Format in diesem Ordner müssen in den Plug-Ins Ordner von MuseScore gelegt werden. Hier werden sie nicht gefunden.
